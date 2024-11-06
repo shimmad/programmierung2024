@@ -1,0 +1,41 @@
+{
+    "libros": [
+      {
+        "titulo": "Cien años de soledad",
+        "autor": "Gabriel García Márquez",
+        "genero": "Realismo mágico",
+        "publicado": 1967,
+        "isbn": 9780060883287
+      },
+      {
+        "titulo": "1984",
+        "autor": "George Orwell",
+        "genero": "Distopía",
+        "publicado": 1949,
+        "isbn": 9780451524935
+      },
+      {
+        "titulo": "Orgullo y prejuicio",
+        "autor": "Jane Austen",
+        "genero": "Novela romántica",
+        "publicado": 1813,
+        "isbn": 9781503290563
+      },
+      {
+        "titulo": "El señor de los anillos",
+        "autor": "J.R.R. Tolkien",
+        "genero": "Fantasía",
+        "publicado": 1954,
+        "isbn": 9780261102385
+      },
+      {
+        "titulo": "To Kill a Mockingbird",
+        "autor": "Harper Lee",
+        "genero": "Ficción",
+        "publicado": 1960,
+        "isbn": 9780060935467
+      }
+    ]
+  }
+  
+  
