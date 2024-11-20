@@ -1,0 +1,11 @@
+{
+    "libros": [
+        {
+            "titulo": "el libro de la arena nuevo",
+            "autor": "jorge luis borges",
+            "ISBN": 123,
+            "anio_publicacion": 1970,
+            "genero": "ficcion"
+        }
+    ]
+}
